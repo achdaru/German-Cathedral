@@ -1,62 +1,67 @@
-# ⛪ Cesta po německých katedrálách (Praha -> Kolín -> Praha)
+# ⛪ Velká cesta po německých katedrálách (Praha -> Kolín -> Praha)
 
-Tento itinerář je zaměřen na fascinující architekturu (románský sloh a gotika) s důrazem na pohodlné parkování mimo centra měst.
+Tento itinerář mapuje vývoj evropské architektury od románské strohosti po vrcholnou gotiku. Zaměřeno na klidné parkování (P+R) a efektivní přesuny.
 
-Odkaz na mapu: https://mapy.com/s/mucatetoko
+Mapa: https://mapy.com/s/kobazenobo
 
-<img width="422" height="246" alt="image" src="https://github.com/user-attachments/assets/52d649b5-d455-4d67-80b5-dda19c02ec4b" />
+<img width="469" height="260" alt="image" src="https://github.com/user-attachments/assets/103ae4b2-78d2-481c-8968-22825c273f50" />
 
 ---
 
-## 🗺️ Přehled trasy a parkování
+## 🗺️ Itinerář a navigace na parkoviště
 
-### 1. Úsek: Bavorsko a Švábsko
-* **Regensburg (Řezno)** – Katedrála sv. Petra (gotika).
-    * 🅿️ [P+R Unterer Wöhrd](https://www.google.com/maps/search/?api=1&query=P%2BR+Unterer+Wöhrd+Regensburg) (15 min pěšky přes most).
-* **ULM** – Ulmský dóm (nejvyšší věž světa).
-    * 🅿️ [P+R Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Science+Park+II+Ulm) (tramvaj linka 2 do centra).
-* **Klášter Maulbronn** – UNESCO klenot.
-    * 🅿️ [Parkplatz Klosterhof](https://www.google.com/maps/search/?api=1&query=Kloster+Maulbronn+Parken) (přímo u kláštera).
+### 1. Úsek: Bavorsko a Švábsko (Gotické vertikály)
+* **Regensburg (Řezno)** – Katedrála sv. Petra (čistá gotika).
+    * 🅿️ [P+R Unterer Wöhrd](https://www.google.com/maps/search/?api=1&query=P%2BR+Unterer+Woehrd+Regensburg) (15 min pěšky přes most).
+* **ULM** – Ulmský dóm (nejvyšší kostelní věž na světě).
+    * 🅿️ [P+R Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Science+Park+II+Ulm) (tramvaj č. 2 do centra).
+* **Klášter Maulbronn** – Nejzachovalejší středověký klášter (UNESCO).
+    * 🅿️ [Parkplatz Klosterhof](https://www.google.com/maps/search/?api=1&query=Klosterhof+Maulbronn+Parken).
 
-### 2. Úsek: Císařské katedrály a hrad
-* **Speyer (Špýr)** – Císařská katedrála (románský unikát).
-    * 🅿️ [Parkplatz Festplatz](https://www.google.com/maps/search/?api=1&query=Parkplatz+Festplatz+Speyer) (kousek od dómu).
+### 2. Úsek: Císařské katedrály na Rýnu (Románský sloh)
+* **Speyer (Špýr)** – Císařská katedrála (největší románská stavba světa).
+    * 🅿️ [Parkplatz Festplatz](https://www.google.com/maps/search/?api=1&query=Festplatz+Speyer).
+* **Worms** – Katedrála sv. Petra (vrchol německé romaniky).
+    * 🅿️ [Parkhaus am Dom](https://www.google.com/maps/search/?api=1&query=Parkhaus+am+Dom+Worms).
 * **Heppenheim** – "Dóm na Bergstraße".
-    * 🅿️ [Bahnhof Heppenheim](https://www.google.com/maps/search/?api=1&query=Bahnhof+Heppenheim+Parken) (10 min pěšky).
-* **Mohuč (Mainz)** – Románská bazilika sv. Martina.
-    * 🅿️ [P+R Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Messe+Mainz) (tramvají do centra).
-* **Burg Eltz** – Pohádkový hrad v lesích.
+    * 🅿️ [Nádraží Heppenheim](https://www.google.com/maps/search/?api=1&query=Bahnhof+Heppenheim).
+* **Mohuč (Mainz)** – Tisíciletá románská bazilika.
+    * 🅿️ [P+R Messe Mainz](https://www.google.com/maps/search/?api=1&query=P%2BR+Messe+Mainz).
+
+### 3. Úsek: Mosela a Severní Porýní
+* **Burg Eltz** – Pohádkový hrad (v březnu prohlídka jen zvenku).
     * 🅿️ [Parkplatz Burg Eltz](https://www.google.com/maps/search/?api=1&query=Burg+Eltz+Parkplatz).
+* **Aachen (Cáchy)** – Katedrála Panny Marie (místo korunovace králů).
+    * 🅿️ [P+R Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Westfriedhof+Aachen).
+* **Kolín nad Rýnem** – HLAVNÍ CÍL (vrcholná gotika).
+    * 🅿️ [P+R Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Koeln) (S-Bahn přímo ke katedrále).
 
-### 3. Úsek: Vrchol cesty
-* **Aachen (Cáchy)** – Katedrála Karla Velikého.
-    * 🅿️ [P+R Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Westfriedhof+Aachen) (bus 350/7/47).
-* **Kolín nad Rýnem** – Hlavní cíl (čistá gotika).
-    * 🅿️ [P+R Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Köln) (S-Bahn S12/S19 přímo ke katedrále).
-
-### 4. Úsek: Návratová cesta
-* **Limburg an der Lahn** – Sedmivěžatá katedrála.
-    * 🅿️ [Parkplatz Marktplatz](https://www.google.com/maps/search/?api=1&query=Parkplatz+Marktplatz+Limburg).
-* **Idstein** – Barokní interiér Unionkirche.
-    * 🅿️ [Parkplatz Schlossgasse](https://www.google.com/maps/search/?api=1&query=Parkplatz+Schlossgasse+Idstein).
-* **Miltenberg** – Perla na Mohanu (hrázděné domy).
+### 4. Úsek: Návrat přes Hesensko a Durynsko
+* **Limburg an der Lahn** – Pozdně románská "pohádková" katedrála.
+    * 🅿️ [Parkplatz Marktplatz](https://www.google.com/maps/search/?api=1&query=Marktplatz+Limburg+Lahn).
+* **Marburg** – Elisabethkirche (vůbec první čistě gotický kostel v Německu).
+    * 🅿️ [Parkhaus Oberstadt](https://www.google.com/maps/search/?api=1&query=Parkhaus+Oberstadt+Marburg).
+* **Idstein** – "Unionkirche" s unikátním malovaným stropem.
+    * 🅿️ [Parkplatz Schlossgasse](https://www.google.com/maps/search/?api=1&query=Schlossgasse+Idstein).
+* **Miltenberg** – Historické město s hrázděnými domy.
     * 🅿️ [Mainuferparkplatz](https://www.google.com/maps/search/?api=1&query=Mainuferparkplatz+Miltenberg).
+* **Erfurt** – Katedrála Panny Marie (gotický skvost a zvon Gloriosa).
+    * 🅿️ [Parkplatz Domplatz](https://www.google.com/maps/search/?api=1&query=Domplatz+Erfurt+Parken).
 
 ---
 
-## 🛌 Doporučené noclehy (strategické body)
-
-1.  **Ulm / Neu-Ulm:** Snadné parkování, ideální po prvním dni.
-2.  **Speyer:** Večerní atmosféra u katedrály je kouzelná.
-3.  **Okolí hradu Eltz (Münstermaifeld):** Klid uprostřed přírody.
-4.  **Brühl (u Kolína):** Vyhnete se zácpám v Kolíně, vlakem jste tam za 20 min.
-5.  **Miltenberg:** Poslední noc v historickém hostinci před cestou domů.
+## 🛌 Strategické body pro nocleh
+1. **Ulm / Neu-Ulm:** Snadný start, dobré parkování.
+2. **Speyer:** Magická večerní atmosféra u dómu.
+3. **Münstermaifeld (okolí Burg Eltz):** Klid uprostřed přírody.
+4. **Brühl (u Kolína):** Ideální základna pro výlet do Kolína vlakem.
+5. **Limburg nebo Marburg:** Malebná historická centra pro poslední večery.
 
 ---
 
-## 💡 Praktické tipy
-* Vždy hledejte hotely s označením **"Parkplatz inklusive"**.
-* Do velkých měst (Kolín, Mohuč) **nevjíždějte autem** – P+R systém je levnější a rychlejší.
-* Nezapomeňte na **zelenou ekoplaketu** (Umweltzone) pro vjezd do širších center.
+## ❄️ Březnové tipy
+* **Teplo:** V katedrálách je v březnu mrazivo – nepodceňte vrstvy oblečení.
+* **Burg Eltz:** Interiéry jsou zavřené (do 1.4.), ale procházka k hradu je otevřená a stojí za to.
+* **Ekologie:** Pokud vjíždíte do měst, musíte mít zelenou plaketu (**Umweltzone**). S P+R parkovišti na okraji ji ale většinou nepotřebujete.
 
 
