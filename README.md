@@ -1,115 +1,58 @@
-# German-Cathedral
+# ⛪ Cesta po německých katedrálách (Praha -> Kolín -> Praha)
 
-Trasu jsem rozdělil do 5 logických úseků. U každého města uvádím tip na parkování mimo nejužší centrum s návazností na MHD nebo krátkou chůzi.
+Tento itinerář je zaměřen na fascinující architekturu (románský sloh a gotika) s důrazem na pohodlné parkování mimo centra měst.
 
-Úsek 1: Bavorsko a Švábsko (Gotické vertikály)
-Z Prahy vyrazíme na jihozápad za nejvyššími věžemi.
+---
 
-1. Regensburg (Řezno): Katedrála sv. Petra (čistá francouzská gotika).
+## 🗺️ Přehled trasy a parkování
 
-Parkování: P+R Unterer Wöhrd (Eisstadion). Odtud je to 10–15 min pěšky přes Dunaj přímo ke katedrále, vyhnete se úzkým uličkám.
+### 1. Úsek: Bavorsko a Švábsko
+* **Regensburg (Řezno)** – Katedrála sv. Petra (gotika).
+    * 🅿️ [P+R Unterer Wöhrd](https://www.google.com/maps/search/?api=1&query=P%2BR+Unterer+Wöhrd+Regensburg) (15 min pěšky přes most).
+* **ULM** – Ulmský dóm (nejvyšší věž světa).
+    * 🅿️ [P+R Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Science+Park+II+Ulm) (tramvaj linka 2 do centra).
+* **Klášter Maulbronn** – UNESCO klenot.
+    * 🅿️ [Parkplatz Klosterhof](https://www.google.com/maps/search/?api=1&query=Kloster+Maulbronn+Parken) (přímo u kláštera).
 
-2. Ulm: Ulmský dóm (nejvyšší kostelní věž na světě, pozdní gotika).
+### 2. Úsek: Císařské katedrály a hrad
+* **Speyer (Špýr)** – Císařská katedrála (románský unikát).
+    * 🅿️ [Parkplatz Festplatz](https://www.google.com/maps/search/?api=1&query=Parkplatz+Festplatz+Speyer) (kousek od dómu).
+* **Heppenheim** – "Dóm na Bergstraße".
+    * 🅿️ [Bahnhof Heppenheim](https://www.google.com/maps/search/?api=1&query=Bahnhof+Heppenheim+Parken) (10 min pěšky).
+* **Mohuč (Mainz)** – Románská bazilika sv. Martina.
+    * 🅿️ [P+R Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Messe+Mainz) (tramvají do centra).
+* **Burg Eltz** – Pohádkový hrad v lesích.
+    * 🅿️ [Parkplatz Burg Eltz](https://www.google.com/maps/search/?api=1&query=Burg+Eltz+Parkplatz).
 
-Parkování: P+R Science Park II (tramvaj linka 2 do centra) nebo parkoviště Messe (bus do centra). Centrum Ulmu je pro auta velmi nepřátelské.
+### 3. Úsek: Vrchol cesty
+* **Aachen (Cáchy)** – Katedrála Karla Velikého.
+    * 🅿️ [P+R Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Westfriedhof+Aachen) (bus 350/7/47).
+* **Kolín nad Rýnem** – Hlavní cíl (čistá gotika).
+    * 🅿️ [P+R Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Köln) (S-Bahn S12/S19 přímo ke katedrále).
 
-Úsek 2: Cesta ke kořenům (UNESCO a románský sloh)
-Přesun do Bádenska-Württemberska a Porýní-Falce.
+### 4. Úsek: Návratová cesta
+* **Limburg an der Lahn** – Sedmivěžatá katedrála.
+    * 🅿️ [Parkplatz Marktplatz](https://www.google.com/maps/search/?api=1&query=Parkplatz+Marktplatz+Limburg).
+* **Idstein** – Barokní interiér Unionkirche.
+    * 🅿️ [Parkplatz Schlossgasse](https://www.google.com/maps/search/?api=1&query=Parkplatz+Schlossgasse+Idstein).
+* **Miltenberg** – Perla na Mohanu (hrázděné domy).
+    * 🅿️ [Mainuferparkplatz](https://www.google.com/maps/search/?api=1&query=Mainuferparkplatz+Miltenberg).
 
-3. Klášter Maulbronn: Nejlépe zachovaný středověký klášterní komplex severně od Alp (přechod románského slohu a gotiky).
+---
 
-Parkování: Zde můžete parkovat přímo u kláštera (např. Parkplatz Klosterhof), je to malé městečko, žádný stres s dopravou.
+## 🛌 Doporučené noclehy (strategické body)
 
-4. Speyer (Špýr): Císařská katedrála (největší dochovaná románská stavba světa, UNESCO).
+1.  **Ulm / Neu-Ulm:** Snadné parkování, ideální po prvním dni.
+2.  **Speyer:** Večerní atmosféra u katedrály je kouzelná.
+3.  **Okolí hradu Eltz (Münstermaifeld):** Klid uprostřed přírody.
+4.  **Brühl (u Kolína):** Vyhnete se zácpám v Kolíně, vlakem jste tam za 20 min.
+5.  **Miltenberg:** Poslední noc v historickém hostinci před cestou domů.
 
-Parkování: Parkplatz Festplatz. Obrovské parkoviště kousek od katedrály, ideální pro rychlou návštěvu bez vjezdu do historického jádra.
+---
 
-Úsek 3: Porýní a pohádkový hrad
-Severní cesta podél Rýna.
-
-5. Heppenheim: "Dom der Bergstraße" (kostel sv. Petra). Monumentální novogotika na historickém náměstí.
-
-Parkování: U nádraží (Bahnhof Heppenheim), odtud 10 min pěšky do historického centra.
-
-6. Mohuč (Mainz): Katedrála sv. Martina (tisíciletá románská bazilika, jedna z nejdůležitějších v Německu).
-
-Parkování: P+R Messe (velkokapacitní, tramvají do centra). Do centra Mohuče autem raději nejezděte.
-
-7. Burg Eltz: Skvost mezi hrady, nebyl nikdy dobyt ani zničen.
-
-Parkování: Oficiální parkoviště Burg Eltz (v lese). Odtud buď 15 min procházka, nebo kyvadlový bus k hradu.
-
-Úsek 4: Vrchol cesty (Aachen a Kolín)
-Dva nejsvětější body německé historie.
-
-8. Aachen (Cáchy): Katedrála Panny Marie (místo korunovace králů, oktagonální kaple Karla Velikého – karolinská architektura a gotika).
-
-Parkování: P+R Westfriedhof (bus linky 350/7/47 do centra). Parkování v centru Cách je extrémně drahé a komplikované.
-
-9. Kolín nad Rýnem: Katedrála sv. Petra (vrcholná gotika, hlavní cíl).
-
-Parkování: P+R Haus Vorst nebo P+R Weiden West. Odtud vlakem S-Bahn (S12/S19) přímo na Köln Hauptbahnhof, který stojí doslova 50 metrů od vchodu do katedrály. Nejekonomičtější a nejrychlejší cesta.
-
-Úsek 5: Návrat přes hrázděná města (Lahn a Mohan)
-Cesta zpět směrem na Prahu přes malebná údolí.
-
-10. Limburg an der Lahn: Katedrála sv. Jiří (pozdně románská stavba, vypadá jako z pohádky).
-
-Parkování: Parkplatz Marktplatz (Ste-Foy-Straße). Kousek od centra, snadno dostupné z dálnice A3.
-
-11. Idstein: Unionkirche (zvenku nenápadná, uvnitř fascinující barokní malby na stropě) a věž Hexenturm.
-
-Parkování: Parkplatz Schlossgasse. Malé město, zaparkujete snadno u historického jádra.
-
-12. Miltenberg: "Perla Mohanu", město s úžasnými hrázděnými domy.
-
-Parkování: Mainuferparkplatz. Přímo u řeky, 5 min pěšky na historické náměstí "Schnatterloch".
-
-Ubytování
-Aby byla cesta plynulá a nemuseli jste s autem zajíždět do center velkých měst, doporučuji volit noclehy buď na okrajích větších měst (s dobrou dostupností MHD), nebo v menších městech na trase, která jsou klidnější a parkování je tam snazší.
-
-Zde je doporučený plán noclehů pro 5denní až 6denní itinerář:
-
-1. Nocleh: Ulm (nebo Neu-Ulm)
-Po cestě z Prahy a zastávce v Regensburgu je Ulm ideálním místem k zakončení dne.
-
-Proč zde: Ulm je velké město, ale sousední Neu-Ulm (přes řeku) nabízí často levnější a dostupnější hotely s lepším parkováním.
-
-Tip: Hledejte ubytování blízko zastávek tramvaje linky 2, která vás doveze přímo k dómu.
-
-2. Nocleh: Speyer (Špýr) a okolí
-Po návštěvě kláštera Maulbronn dorazíte do Špýru.
-
-Proč zde: Špýr je neuvěřitelně atmosférické město. Doporučuji hledat ubytování v docházkové vzdálenosti od katedrály (mimo úplné historické jádro) nebo v přilehlých částech jako Speyer-Nord.
-
-Tip: Večerní procházka kolem nasvícené románské katedrály je jeden z nejsilnějších zážitků na trase.
-
-3. Nocleh: Údolí Mosely (blízko Burg Eltz)
-Po prohlídce Heppenheimu a Mohuče se přesuňte směrem k hradu Eltz.
-
-Proč zde: Místo velkoměsta (Mohuče) zvolte romantické údolí řeky Mosely. Vesnice jako Wierschem (přímo u hradu) nebo městečko Münstermaifeld.
-
-Tip: Je to klidná oblast, kde auto necháte bezpečně u penzionu a k hradu Eltz si ráno popojedete pár minut.
-
-4. Nocleh: Okolí Kolína nad Rýnem (např. Brühl nebo Bensberg)
-Kolín je váš hlavní cíl, ale ubytování přímo v centru s autem je logistická noční můra.
-
-Proč zde: Městečko Brühl leží na přímé lince vlaku/tramvaje do centra Kolína (cca 20 min). Je tam klid, snadné parkování a jako bonus úžasné zámky (UNESCO). Další možností je Bensberg (východně od Kolína), odkud jede tramvaj linky 1 přímo k rýnskému nábřeží.
-
-Tip: Nechte auto u hotelu v Brühlu a do Kolína jeďte vlakem (RB/RE) nebo linkou 18. Vystoupíte přímo u katedrály.
-
-5. Nocleh (volitelný): Miltenberg
-Pokud nechcete jet z Kolína až do Prahy v jeden zátah (je to s prohlídkami Limburgu a Idsteinu cca 7-8 hodin čistého času na cestě), zastavte se zde.
-
-Proč zde: Miltenberg je "hrázděná perla". Je to velmi kompaktní městečko. Ubytujte se v některém z historických hostinců u řeky.
-
-Tip: Je to skvělé místo na poslední německou večeři před návratem do ČR. Z Miltenbergu je to do Prahy už jen cca 4,5 hodiny cesty.
-
-Shrnutí strategie pro noclehy:
-Vždy hledejte "Parkplatz inklusive": V Německu je parkovné v centrech velmi drahé.
-
-Přednost dejte menším městům: Idstein, Limburg nebo Miltenberg jsou pro auto i spánek mnohem příjemnější než Mohuč nebo Kolín.
-
-Využívejte S-Bahn: Pokud přesto chcete spát u velkého města, hledejte hotely u stanic S-Bahn (příměstské vlaky). Dovezou vás ke katedrálám bez stresu z kolon a nízkoemisních zón.
+## 💡 Praktické tipy
+* Vždy hledejte hotely s označením **"Parkplatz inklusive"**.
+* Do velkých měst (Kolín, Mohuč) **nevjíždějte autem** – P+R systém je levnější a rychlejší.
+* Nezapomeňte na **zelenou ekoplaketu** (Umweltzone) pro vjezd do širších center.
 
 
