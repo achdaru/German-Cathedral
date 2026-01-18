@@ -43,8 +43,6 @@ Mapa: https://mapy.com/s/kobazenobo
     * 🅿️ [Parkhaus Oberstadt](https://www.google.com/maps/search/?api=1&query=Parkhaus+Oberstadt+Marburg).
 * **Idstein** – "Unionkirche" s unikátním malovaným stropem.
     * 🅿️ [Parkplatz Schlossgasse](https://www.google.com/maps/search/?api=1&query=Schlossgasse+Idstein).
-* **Miltenberg** – Historické město s hrázděnými domy.
-    * 🅿️ [Mainuferparkplatz](https://www.google.com/maps/search/?api=1&query=Mainuferparkplatz+Miltenberg).
 * **Erfurt** – Katedrála Panny Marie (gotický skvost a zvon Gloriosa).
     * 🅿️ [Parkplatz Domplatz](https://www.google.com/maps/search/?api=1&query=Domplatz+Erfurt+Parken).
 
