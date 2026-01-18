@@ -3,6 +3,7 @@
 Tento itinerář je zaměřen na fascinující architekturu (románský sloh a gotika) s důrazem na pohodlné parkování mimo centra měst.
 
 Odkaz na mapu: https://mapy.com/s/mucatetoko
+
 <img width="422" height="246" alt="image" src="https://github.com/user-attachments/assets/52d649b5-d455-4d67-80b5-dda19c02ec4b" />
 
 ---
