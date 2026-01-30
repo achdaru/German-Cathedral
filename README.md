@@ -29,8 +29,6 @@ Mapa: https://mapy.com/s/kobazenobo
     * 🅿️ [P+R Messe Mainz](https://www.google.com/maps/search/?api=1&query=P%2BR+Messe+Mainz).
 
 ### 3. Úsek: Mosela a Severní Porýní
-* **Burg Eltz** – Pohádkový hrad (v březnu prohlídka jen zvenku).
-    * 🅿️ [Parkplatz Burg Eltz](https://www.google.com/maps/search/?api=1&query=Burg+Eltz+Parkplatz).
 * **Aachen (Cáchy)** – Katedrála Panny Marie (místo korunovace králů).
     * 🅿️ [P+R Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Westfriedhof+Aachen).
 * **Kolín nad Rýnem** – HLAVNÍ CÍL (vrcholná gotika).
