@@ -8,56 +8,58 @@ Mapa: https://mapy.com/s/kobazenobo
 
 ---
 
-## 🗺️ Itinerář a navigace na parkoviště
+# ⛪ Rodinná cesta po katedrálách (5 nocí / 6 dní) - Únor 2026
 
-### 1. Úsek: Bavorsko a Švábsko (Gotické vertikály)
-* **Regensburg (Řezno)** – Katedrála sv. Petra (čistá gotika).
-    * 🅿️ [P+R Unterer Wöhrd](https://www.google.com/maps/search/?api=1&query=P%2BR+Unterer+Woehrd+Regensburg) (15 min pěšky přes most).
-* **ULM** – Ulmský dóm (nejvyšší kostelní věž na světě).
-    * 🅿️ [P+R Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Science+Park+II+Ulm) (tramvaj č. 2 do centra).
-* **Klášter Maulbronn** – Nejzachovalejší středověký klášter (UNESCO).
-    * 🅿️ [Parkplatz Klosterhof](https://www.google.com/maps/search/?api=1&query=Klosterhof+Maulbronn+Parken).
-
-### 2. Úsek: Císařské katedrály na Rýnu (Románský sloh)
-* **Speyer (Špýr)** – Císařská katedrála (největší románská stavba světa).
-    * 🅿️ [Parkplatz Festplatz](https://www.google.com/maps/search/?api=1&query=Festplatz+Speyer).
-* **Worms** – Katedrála sv. Petra (vrchol německé romaniky).
-    * 🅿️ [Parkhaus am Dom](https://www.google.com/maps/search/?api=1&query=Parkhaus+am+Dom+Worms).
-* **Heppenheim** – "Dóm na Bergstraße".
-    * 🅿️ [Nádraží Heppenheim](https://www.google.com/maps/search/?api=1&query=Bahnhof+Heppenheim).
-* **Mohuč (Mainz)** – Tisíciletá románská bazilika.
-    * 🅿️ [P+R Messe Mainz](https://www.google.com/maps/search/?api=1&query=P%2BR+Messe+Mainz).
-
-### 3. Úsek: Mosela a Severní Porýní
-* **Aachen (Cáchy)** – Katedrála Panny Marie (místo korunovace králů).
-    * 🅿️ [P+R Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Westfriedhof+Aachen).
-* **Kolín nad Rýnem** – HLAVNÍ CÍL (vrcholná gotika).
-    * 🅿️ [P+R Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Koeln) (S-Bahn přímo ke katedrále).
-
-### 4. Úsek: Návrat přes Hesensko a Durynsko
-* **Limburg an der Lahn** – Pozdně románská "pohádková" katedrála.
-    * 🅿️ [Parkplatz Marktplatz](https://www.google.com/maps/search/?api=1&query=Marktplatz+Limburg+Lahn).
-* **Marburg** – Elisabethkirche (vůbec první čistě gotický kostel v Německu).
-    * 🅿️ [Parkhaus Oberstadt](https://www.google.com/maps/search/?api=1&query=Parkhaus+Oberstadt+Marburg).
-* **Idstein** – "Unionkirche" s unikátním malovaným stropem.
-    * 🅿️ [Parkplatz Schlossgasse](https://www.google.com/maps/search/?api=1&query=Schlossgasse+Idstein).
-* **Erfurt** – Katedrála Panny Marie (gotický skvost a zvon Gloriosa).
-    * 🅿️ [Parkplatz Domplatz](https://www.google.com/maps/search/?api=1&query=Domplatz+Erfurt+Parken).
+Itinerář optimalizovaný pro 3 osoby s důrazem na historii, architekturu a rozumné náklady.
 
 ---
 
-## 🛌 Strategické body pro nocleh
-1. **Ulm / Neu-Ulm:** Snadný start, dobré parkování.
-2. **Speyer:** Magická večerní atmosféra u dómu.
-3. **Münstermaifeld (okolí Burg Eltz):** Klid uprostřed přírody.
-4. **Brühl (u Kolína):** Ideální základna pro výlet do Kolína vlakem.
-5. **Limburg nebo Marburg:** Malebná historická centra pro poslední večery.
+## 🗺️ Denní plán a navigace
+
+### 1. den: Start a gotický úvod (470 km)
+* **Trasa:** Praha -> Regensburg -> Ulm
+* **Body zájmu:** Katedrála sv. Petra (Regensburg), Ulmský dóm (nejvyšší věž).
+* 🅿️ [P+R Regensburg](https://maps.google.com/?cid=9693286626309092383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [P+R Ulm](https://maps.google.com/?cid=563598184726075166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ)
+* 🛌 **Nocleh:** Ulm / Neu-Ulm
+
+### 2. den: Cesta císařů podél Rýna (240 km)
+* **Trasa:** Ulm -> Maulbronn -> Speyer -> Worms -> Mainz
+* **Body zájmu:** Klášter Maulbronn (UNESCO), románské katedrály ve Špýru, Wormsu a Mohuči.
+* 🅿️ [Parkplatz Maulbronn](https://maps.google.com/?cid=332229725907279802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [Parkplatz Speyer](https://maps.google.com/?cid=12099954035994171358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [Parkhaus Worms](https://maps.google.com/?cid=1949650427835936044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ)
+* 🛌 **Nocleh:** Mainz (Mohuč)
+
+### 3. den: Srdce říše a gotický obr (270 km)
+* **Trasa:** Mainz -> Aachen -> Köln
+* **Body zájmu:** Katedrála v Cáchách (hrob Karla Velikého), Kolínský dóm (světový unikát).
+* 🅿️ [P+R Aachen West](https://maps.google.com/?cid=3787910833632647246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [P+R Köln Weiden West](https://maps.google.com/?cid=4067607137246218435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ)
+* 🛌 **Nocleh:** Köln (Kolín) nebo Brühl
+
+### 4. den: Barevná romanika a první německá gotika (235 km)
+* **Trasa:** Köln -> Limburg -> Idstein -> Marburg
+* **Body zájmu:** Barevný Limburg, barokní Unionkirche v Idsteinu, sv. Alžběta v Marburgu.
+* 🅿️ [Parkplatz Limburg](https://maps.google.com/?cid=3020949122294458822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [Parkhaus Marburg](https://maps.google.com/?cid=4488820137387535036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ)
+* 🛌 **Nocleh:** Marburg
+
+### 5. den: Perla na Mohanu a durynský klenot (360 km)
+* **Trasa:** Marburg -> Miltenberg -> Erfurt
+* **Body zájmu:** Historický Miltenberg (hrázděné domy), Erfurtský dóm.
+* 🅿️ [Mainufer Miltenberg](https://maps.google.com/?cid=10144267050863950419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) | [Parkplatz Erfurt Domplatz](https://maps.google.com/?cid=14227430320571915733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ)
+* 🛌 **Nocleh:** Erfurt
+
+### 6. den: Rozloučení a návrat (260 km)
+* **Trasa:** Erfurt -> Praha
+* **Program:** Dopolední Erfurt (most Krämerbrücke), odpoledne cesta domů.
 
 ---
 
-## ❄️ Březnové tipy
-* **Teplo:** V katedrálách je v březnu mrazivo – nepodceňte vrstvy oblečení.
-* **Burg Eltz:** Interiéry jsou zavřené (do 1.4.), ale procházka k hradu je otevřená a stojí za to.
-* **Ekologie:** Pokud vjíždíte do měst, musíte mít zelenou plaketu (**Umweltzone**). S P+R parkovišti na okraji ji ale většinou nepotřebujete.
+## 💰 Tip  -  Jak ušetřit
+1. **Ubytování:** Hledejte rodinné pokoje (Dreibettzimmer) v řetězcích jako *B&B Hotels* nebo *Ibis Budget*.
+2. **Jídlo:** Využívejte německé pekárny (Bäckerei) na snídaně a lehké obědy. Večeři v restauraci si dejte jen obden.
+3. **MHD:** Ve velkých městech kupte skupinovou jízdenku (Gruppentageskarte) pro 3-5 osob, vyjde nejlevněji.
+4. **Voda:** Nekupujte pití na benzínkách, v supermarketu je 5x levnější.
+
+## ❄️ Únorové rady
+* **Oblečení:** V katedrálách je v únoru zima jako v lednici. Termo-ponožky jsou základ!
+* **Čas:** V únoru je v 17:30 tma, plánujte prohlídky na dopoledne.
 
 
