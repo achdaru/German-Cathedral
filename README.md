@@ -51,5 +51,20 @@ Mapa: https://mapy.com/s/kobazenobo
 * **Zimní výbava:** V únoru jsou interiéry katedrál velmi chladné, doporučujeme termo-ponožky.
 
 
+Odkazy
+## 📍 Rychlé odkazy do navigace (P+R parkoviště)
+* [Regensburg West](https://www.google.com/maps/search/?api=1&query=P%2BR+Regensburg+West)
+* [Ulm Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Ulm+Science+Park+II)
+* [Maulbronn Talaue](https://www.google.com/maps/search/?api=1&query=Parkplatz+Talaue+Maulbronn)
+* [Speyer Bahnhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Speyer+Bahnhof)
+* [Worms Bahnhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Worms+Bahnhof)
+* [Mainz Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Mainz+Messe)
+* [Aachen Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Aachen+Westfriedhof)
+* [Köln Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Köln)
+* [Limburg Süd](https://www.google.com/maps/search/?api=1&query=P%2BR+Limburg+Süd)
+* [Idstein Bf](https://www.google.com/maps/search/?api=1&query=P%2BR+Idstein+Bf)
+* [Marburg Am Krekel](https://www.google.com/maps/search/?api=1&query=P%2BR+Marburg+Am+Krekel)
+* [Erfurt Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Erfurt+Messe)
+
 
 
