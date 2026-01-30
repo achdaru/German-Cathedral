@@ -10,44 +10,46 @@ Mapa: https://mapy.com/s/kobazenobo
 
 # ⛪ Rodinná cesta po katedrálách (4 noci / 5 dní) - Únor 2026
 
-Optimalizovaná trasa pro 3 osoby s efektivním rozložením kilometrů.
 
----
 
-## 🗺️ Denní plán
+## 🗺️ Denní itinerář a P+R parkování
 
-### 1. den: Start a bavorská gotika (470 km)
-* **Program:** Katedrála v Regensburgu, Ulmský dóm.
-* 🅿️ [P+R Ulm Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Ulm+Science+Park+II)
-* 🛌 **Nocleh:** Ulm (např. B&B Hotel Ulm)
+### 1. den: Praha – Regensburg – Ulm (470 km)
+* **Program:** Katedrála sv. Petra (Regensburg), Ulmský dóm (nejvyšší kostelní věž).
+* 🅿️ **P+R Regensburg West** (Kuglerstraße) – bus linka 1 do centra k dómu.
+* 🅿️ **P+R Ulm Science Park II** (Lise-Meitner-Straße) – tramvaj linka 2 do centra.
+* 🛌 **Nocleh:** Ulm
 
-### 2. den: Císařské románské katedrály (240 km)
-* **Program:** Klášter Maulbronn (UNESCO), Speyer, Worms a Mainz.
-* 🅿️ [Parkplatz Festplatz Speyer](https://www.google.com/maps/search/?api=1&query=Parkplatz+Festplatz+Speyer)
-* 🛌 **Nocleh:** Mainz (Mohuč)
+### 2. den: Ulm – Maulbronn – Speyer – Worms – Mainz (240 km)
+* **Program:** Klášter Maulbronn (UNESCO), císařské katedrály ve Špýru a Wormsu, dóm v Mohuči.
+* 🅿️ **P+R Parkhaus Am Bahnhof Worms** (Auxerreplatz) – 10 min pěšky ke katedrále.
+* 🅿️ **P+R Mainz Messe** (Genfer Allee) – bus linka 6 nebo 62 přímo do centra.
+* 🛌 **Nocleh:** Mainz
 
-### 3. den: Cáchy a Kolín nad Rýnem (270 km)
-* **Program:** Katedrála v Cáchách (Aachen), Kolínský dóm (Köln).
-* 🅿️ [P+R Weiden West Köln](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Köln) (přímý vlak ke katedrále)
+### 3. den: Mainz – Aachen – Köln (270 km)
+* **Program:** Katedrála v Cáchách (hrob Karla Velikého), Kolínský dóm (vrcholná gotika).
+* 🅿️ **P+R Westfriedhof Aachen** (Vaalser Straße) – bus linky 25, 35, 45 do centra.
+* 🅿️ **P+R Weiden West Köln** – vlak S-Bahn (S12/S19) jede 15 min přímo pod katedrálu.
 * 🛌 **Nocleh:** Köln nebo Brühl
 
-### 4. den: Hesenské skvosty a přesun k Erfurtu (350 km)
-* **Program:** Barevný Limburg, Idstein, Marburg (sv. Alžběta).
-* **Tranzit:** Večerní dojezd do Eisenachu pro usnadnění posledního dne.
-* 🛌 **Nocleh:** Eisenach (např. B&B HOTEL Eisenach nebo Pension Metilstein)
+### 4. den: Köln – Limburg – Idstein – Marburg – Eisenach (350 km)
+* **Program:** Barevný dóm v Limburgu, Unionkirche v Idsteinu, kostel sv. Alžběty v Marburgu.
+* 🅿️ **P+R Limburg Süd** (Londoner Straße) – shuttle bus do centra k řece.
+* 🅿️ **P+R Idstein Bf** (Am Weißen Stein) – 15 min pěšky přes historické centrum.
+* 🅿️ **P+R Am Krekel Marburg** – bus linky 1, 2, 4 přímo ke kostelu.
+* 🛌 **Nocleh:** **Eisenach** (strategický přesun k Erfurtu)
 
-### 5. den: Erfurt a návrat domů (320 km)
-* **Program:** 1. **Erfurt:** Ranní prohlídka Mariendom (zvon Gloriosa) a most Krämerbrücke.
-  2. **Cesta domů:** Erfurt -> Chemnitz -> Praha (cca 3 hodiny).
-* 🅿️ [Parkhaus am Dom Erfurt](https://www.google.com/maps/search/?api=1&query=Parkhaus+am+Dom+Erfurt)
-* 🏁 **Cíl:** Praha
+### 5. den: Eisenach – Erfurt – Praha (320 km)
+* **Program:** Erfurtský dóm (zvon Gloriosa), historický most Krämerbrücke.
+* 🅿️ **P+R Messe Erfurt** (Gothaer Straße) – tramvaj linka 2 přímo na Domplatz.
+* 🏁 **Cíl:** Praha (cesta přes Chemnitz/Chomutov).
 
 ---
 
-## 💰 Úsporné tipy
-* **Ubytování:** V Eisenachu využijte B&B HOTEL, nabízí dobrý poměr cena/výkon pro 3 osoby.
-* **MHD:** V Kolíně a Mohuči kupte skupinovou jízdenku (Gruppentageskarte).
-* **Strava:** V Erfurtu doporučujeme vyhlášený durynský bratwurst na náměstí.
+## 💰 Praktické poznámky
+* **P+R jízdenky:** Většina parkovišť nabízí zvýhodněné lístky na MHD pro celou posádku auta.
+* **Zimní výbava:** V únoru jsou interiéry katedrál velmi chladné, doporučujeme termo-ponožky.
+
 
 
 
