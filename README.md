@@ -6,6 +6,7 @@ Mapa: https://mapy.com/s/kobazenobo
 
 <img width="469" height="260" alt="image" src="https://github.com/user-attachments/assets/103ae4b2-78d2-481c-8968-22825c273f50" />
 
+# 🏰 [OTEVŘÍT PRŮVODCE PRO HOLKY ZDE](https://achdaru.github.io/German-Cathedral/pruvodce.html)
 ---
 
 # ⛪ Rodinná cesta po katedrálách (4 noci / 5 dní) - Únor 2026
