@@ -9,63 +9,79 @@ Mapa: https://mapy.com/s/kobazenobo
 # 🏰 [OTEVŘÍT PRŮVODCE PRO HOLKY ZDE](https://achdaru.github.io/German-Cathedral/pruvodce.html)
 ---
 
-# ⛪ Rodinná cesta po katedrálách (4 noci / 5 dní) - Únor 2026
+# ⛪ German Cathedral Road Trip – February 2026
 
-
-
-## 🗺️ Denní itinerář a P+R parkování
-
-### 1. den: Praha – Regensburg – Ulm (470 km)
-* **Program:** Katedrála sv. Petra (Regensburg), Ulmský dóm (nejvyšší kostelní věž).
-* 🅿️ **P+R Regensburg West** (Kuglerstraße) – bus linka 1 do centra k dómu.
-* 🅿️ **P+R Ulm Science Park II** (Lise-Meitner-Straße) – tramvaj linka 2 do centra.
-* 🛌 **Nocleh:** Ulm
-
-### 2. den: Ulm – Maulbronn – Speyer – Worms – Mainz (240 km)
-* **Program:** Klášter Maulbronn (UNESCO), císařské katedrály ve Špýru a Wormsu, dóm v Mohuči.
-* 🅿️ **P+R Parkhaus Am Bahnhof Worms** (Auxerreplatz) – 10 min pěšky ke katedrále.
-* 🅿️ **P+R Mainz Messe** (Genfer Allee) – bus linka 6 nebo 62 přímo do centra.
-* 🛌 **Nocleh:** Mainz
-
-### 3. den: Mainz – Aachen – Köln (270 km)
-* **Program:** Katedrála v Cáchách (hrob Karla Velikého), Kolínský dóm (vrcholná gotika).
-* 🅿️ **P+R Westfriedhof Aachen** (Vaalser Straße) – bus linky 25, 35, 45 do centra.
-* 🅿️ **P+R Weiden West Köln** – vlak S-Bahn (S12/S19) jede 15 min přímo pod katedrálu.
-* 🛌 **Nocleh:** Köln nebo Brühl
-
-### 4. den: Köln – Limburg – Idstein – Marburg – Eisenach (350 km)
-* **Program:** Barevný dóm v Limburgu, Unionkirche v Idsteinu, kostel sv. Alžběty v Marburgu.
-* 🅿️ **P+R Limburg Süd** (Londoner Straße) – shuttle bus do centra k řece.
-* 🅿️ **P+R Idstein Bf** (Am Weißen Stein) – 15 min pěšky přes historické centrum.
-* 🅿️ **P+R Am Krekel Marburg** – bus linky 1, 2, 4 přímo ke kostelu.
-* 🛌 **Nocleh:** **Eisenach** (strategický přesun k Erfurtu)
-
-### 5. den: Eisenach – Erfurt – Praha (320 km)
-* **Program:** Erfurtský dóm (zvon Gloriosa), historický most Krämerbrücke.
-* 🅿️ **P+R Messe Erfurt** (Gothaer Straße) – tramvaj linka 2 přímo na Domplatz.
-* 🏁 **Cíl:** Praha (cesta přes Chemnitz/Chomutov).
+👉 [**CLICK HERE FOR THE TEENAGER'S TRAVEL GUIDE**](pruvodce.html)
 
 ---
 
-## 💰 Praktické poznámky
-* **P+R jízdenky:** Většina parkovišť nabízí zvýhodněné lístky na MHD pro celou posádku auta.
-* **Zimní výbava:** V únoru jsou interiéry katedrál velmi chladné, doporučujeme termo-ponožky.
+## 🗺️ Daily Itinerary & P+R Parking
+
+### Day 1: Prague – Regensburg – Ulm (~470 km)
+* **Highlights:**
+  * St. Peter's Cathedral (Regensburg)
+  * Ulm Minster (World's tallest church steeple)
+* 🅿️ **P+R Regensburg West** (Kuglerstraße)
+* 🅿️ **P+R Ulm Science Park II** (Lise-Meitner-Straße)
+* 🛌 **Overnight:** Ulm
+
+### Day 2: Ulm – Speyer – Worms – Mainz (~240 km)
+* **Highlights:**
+  * Speyer Cathedral (UNESCO)
+  * Worms Cathedral (Imperial Cathedral)
+  * Mainz Cathedral (St. Martin)
+* 🅿️ **P+R Festplatz Speyer** (Klosterstraße)
+* 🅿️ **P+R Parkhaus Am Bahnhof Worms** (Auxerreplatz)
+* 🅿️ **P+R Mainz Messe** (Genfer Allee)
+* 🛌 **Overnight:** Mainz
+
+### Day 3: Mainz – Idstein – Limburg – Aachen – Cologne (~270 km)
+* **Highlights:**
+  * Idstein: **Union Church** (Stunning Baroque paintings) & Old Town
+  * Limburg Cathedral (Colorful masterpiece above the river)
+  * Aachen Cathedral (Charlemagne’s Throne, UNESCO)
+* 🅿️ **P+R Idstein Bf** (Am Weißen Stein)
+* 🅿️ **P+R Limburg Süd** (Londoner Straße)
+* 🅿️ **P+R Westfriedhof Aachen** (Vaalser Straße)
+* 🛌 **Overnight:** Cologne (Köln)
+
+### Day 4: Cologne – Neviges (Mariendom) – Eisenach (~340 km)
+* **Highlights:**
+  * Cologne Cathedral (Visit inside early in the morning)
+  * Mariendom Neviges (Fascinating brutalist "concrete tent")
+  * Afternoon drive towards Thuringia
+* 🅿️ **P+R Weiden West Köln** – S-Bahn train directly to the Cathedral.
+* 🅿️ **Neviges Wallfahrtsdom** – Parking at the site.
+* 🛌 **Overnight: Eisenach** (Staying at the foot of the castle)
+
+### Day 5: Eisenach (Wartburg) – Erfurt – Prague (~350 km)
+* **Highlights:**
+  * **Wartburg Castle** (UNESCO – where Luther translated the Bible. Opens at 9:30 AM)
+  * Erfurt Cathedral (Famous "Gloriosa" bell)
+  * Krämerbrücke (Medieval bridge with inhabited houses)
+* 🅿️ **Wartburg Parking** – Parking right below the castle.
+* 🅿️ **P+R Messe Erfurt** (Gothaer Straße) – Tram line 2 to the city center.
+* 🏁 **Destination:** Prague
+
+---
+
+## 📍 Fast Navigation Links
+* [Regensburg West P+R](https://www.google.com/maps/search/P%2BR+Regensburg+West)
+* [Ulm Science Park II P+R](https://www.google.com/maps/search/P%2BR+Ulm+Science+Park+II)
+* [Speyer Festplatz](https://www.google.com/maps/search/Speyer+Festplatz+Klosterstrasse)
+* [Worms Station](https://www.google.com/maps/search/Parkhaus+Am+Bahnhof+Worms)
+* [Mainz Messe P+R](https://www.google.com/maps/search/P%2BR+Mainz+Messe)
+* [Idstein Station P+R](https://www.google.com/maps/search/P%2BR+Idstein+Bahnhof)
+* [Limburg Süd P+R](https://www.google.com/maps/search/P%2BR+Limburg+Sued)
+* [Aachen Westfriedhof P+R](https://www.google.com/maps/search/P%2BR+Aachen+Westfriedhof)
+* [Cologne Weiden West P+R](https://www.google.com/maps/search/P%2BR+Koeln+Weiden+West)
+* [Neviges Mariendom](https://www.google.com/maps/search/Wallfahrtsdom+Neviges+Parkplatz)
+* [Wartburg Castle Parking](https://www.google.com/maps/search/Wartburg+Parkplatz)
+* [Erfurt Messe P+R](https://www.google.com/maps/search/P%2BR+Erfurt+Messe)
+
+---
 
 
-Odkazy
-## 📍 Rychlé odkazy do navigace (P+R parkoviště)
-* [Regensburg West](https://www.google.com/maps/search/?api=1&query=P%2BR+Regensburg+West)
-* [Ulm Science Park II](https://www.google.com/maps/search/?api=1&query=P%2BR+Ulm+Science+Park+II)
-* [Maulbronn Talaue](https://www.google.com/maps/search/?api=1&query=Parkplatz+Talaue+Maulbronn)
-* [Speyer Bahnhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Speyer+Bahnhof)
-* [Worms Bahnhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Worms+Bahnhof)
-* [Mainz Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Mainz+Messe)
-* [Aachen Westfriedhof](https://www.google.com/maps/search/?api=1&query=P%2BR+Aachen+Westfriedhof)
-* [Köln Weiden West](https://www.google.com/maps/search/?api=1&query=P%2BR+Weiden+West+Köln)
-* [Limburg Süd](https://www.google.com/maps/search/?api=1&query=P%2BR+Limburg+Süd)
-* [Idstein Bf](https://www.google.com/maps/search/?api=1&query=P%2BR+Idstein+Bf)
-* [Marburg Am Krekel](https://www.google.com/maps/search/?api=1&query=P%2BR+Marburg+Am+Krekel)
-* [Erfurt Messe](https://www.google.com/maps/search/?api=1&query=P%2BR+Erfurt+Messe)
 
 
 
