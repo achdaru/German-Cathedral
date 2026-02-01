@@ -22,8 +22,8 @@ Welcome, explorers! This journey isn't just about old buildings; it’s about de
 * **💪 Challenge:** 768 steps to the top. It’s a test of fitness and nerves. Who will be the first one up?
 * **🔗 Video:** [Ulm Munster from a drone](https://www.youtube.com/watch?v=yXaVRX9rjFU)
 
-<img width="1834" height="2455" alt="image" src="https://github.com/user-attachments/assets/0a99bd46-30ec-47af-a16a-a3a2a63711ab" />
-<img width="205" height="246" alt="image" src="https://github.com/user-attachments/assets/9ef16add-d032-4a78-b247-1f7c308bbd86" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0a99bd46-30ec-47af-a16a-a3a2a63711ab" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9ef16add-d032-4a78-b247-1f7c308bbd86" />
 
 ---
 
@@ -34,15 +34,15 @@ Welcome, explorers! This journey isn't just about old buildings; it’s about de
 * **🔗 Video:** [Speyer UNESCO](https://www.youtube.com/watch?v=m0j1KOiG5Ys) | [Mainz from above](https://www.youtube.com/watch?v=pwRt90GuH70)
 Speyer
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2d5413a-5555-4d27-b67c-f80f501159c8" />
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/f0adbff1-a303-4c9c-b62d-3f2ea9e2c7aa" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d2d5413a-5555-4d27-b67c-f80f501159c8" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f0adbff1-a303-4c9c-b62d-3f2ea9e2c7aa" />
 
 Worms
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/186689e3-1a42-4a4b-9069-90cca9a919ef" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/186689e3-1a42-4a4b-9069-90cca9a919ef" />
 
 Mainz
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37792c29-44c9-4780-9b0e-aa083cc03fcb" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b2f7a124-34bb-42b6-b78f-e1bf35bffc3f" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/37792c29-44c9-4780-9b0e-aa083cc03fcb" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b2f7a124-34bb-42b6-b78f-e1bf35bffc3f" />
 
 ---
 
@@ -52,12 +52,12 @@ Mainz
 * **🔗 Video:** [Limburg Cathedral](https://www.youtube.com/watch?v=RDaDgP5qzVE&t=10s)
 
 Idstein
-<img width="1600" height="1038" alt="image" src="https://github.com/user-attachments/assets/2b1e2cd3-7a7c-4af8-b93d-1d0e34a740d1" />
-<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/d7312fb3-d3ba-47e9-9f01-e6508969d153" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2b1e2cd3-7a7c-4af8-b93d-1d0e34a740d1" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d7312fb3-d3ba-47e9-9f01-e6508969d153" />
 
 Limburg
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8af8763e-fe76-40f9-8c2b-b12d6dfcac75" />
-<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/9febfadf-586e-4a92-8331-47044551ebae" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8af8763e-fe76-40f9-8c2b-b12d6dfcac75" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9febfadf-586e-4a92-8331-47044551ebae" />
 
 ---
 
@@ -66,10 +66,10 @@ Limburg
 * **The Wolf’s Door:** There’s a hole in the bronze handle. Legend says the Devil lost his thumb there while trying to kick the door down. **Try to feel for it with your finger!**
 * **🔗 Video:** [Aachen Cathedral secrets](https://www.youtube.com/watch?v=PI-fMpalYVI)
 
-<img width="1600" height="1103" alt="image" src="https://github.com/user-attachments/assets/d524713d-2f43-468a-af50-ac290d5f2707" />
-<img width="1021" height="1024" alt="image" src="https://github.com/user-attachments/assets/679237af-844f-4d5b-a27d-bdc8b009c0a7" />
-<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/10a38e3f-b658-414b-9d59-36c257c65e2c" />
-<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/f7ea18b4-70fa-43a1-ae0d-6e3d614f5fc3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d524713d-2f43-468a-af50-ac290d5f2707" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/679237af-844f-4d5b-a27d-bdc8b009c0a7" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/10a38e3f-b658-414b-9d59-36c257c65e2c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f7ea18b4-70fa-43a1-ae0d-6e3d614f5fc3" />
 
 
 ---
@@ -80,9 +80,9 @@ Limburg
 * **🕵️‍♀️ Fact:** It was hit by 14 aerial bombs during WWII but didn't collapse. Pilots used it as a landmark to find their way.
 * **🔗 Video:** [Cologne Cathedral Epic Build](https://www.youtube.com/watch?v=w-afeQhmv3A)
 
-<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/4526f13c-a855-43b9-8874-581131536f1c" />
-<img width="2500" height="1146" alt="image" src="https://github.com/user-attachments/assets/e2bbe1e7-92aa-481f-b69b-f85d3e43dbee" />
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/94d439ec-9885-4dab-b7f6-f1aa37143498" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4526f13c-a855-43b9-8874-581131536f1c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e2bbe1e7-92aa-481f-b69b-f85d3e43dbee" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94d439ec-9885-4dab-b7f6-f1aa37143498" />
 
 
 ---
@@ -92,8 +92,8 @@ Limburg
 * **Sci-Fi Architecture:** It looks like something from the movie *Dune* or a spaceship hangar. Inside, it feels like being in a giant, holy cave.
 * **🔗 Video:** [Story behind Iconic Architecture](https://www.youtube.com/watch?v=lBwvLpUfkQo)
 
-<img width="707" height="534" alt="image" src="https://github.com/user-attachments/assets/2a2208c8-7a92-47a0-a6d1-7b6909c23982" />
-<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/1572cbcc-5f31-4131-bfdf-0916385c782d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2a2208c8-7a92-47a0-a6d1-7b6909c23982" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1572cbcc-5f31-4131-bfdf-0916385c782d" />
 
 ---
 
@@ -101,8 +101,8 @@ Limburg
 * **The Spy Story:** This is where Martin Luther hid from the Emperor. He grew a beard, changed his name to "Knight George," and translated the Bible in a tiny wooden room.
 * **The Castle:** It’s exactly how you imagine a medieval fortress – high on a hill, surrounded by deep forests.
 * **🔗 Video:** [Wartburg Castle Tour](https://www.youtube.com/watch?v=PGgueJXw7k4)
-<img width="840" height="525" alt="image" src="https://github.com/user-attachments/assets/a259ac6c-466d-4729-9a01-03b504c4ca84" />
-<img width="1200" height="793" alt="image" src="https://github.com/user-attachments/assets/021a1da2-53ee-48be-9093-e0cb27bb68d5" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a259ac6c-466d-4729-9a01-03b504c4ca84" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/021a1da2-53ee-48be-9093-e0cb27bb68d5" />
 
 
 ---
@@ -112,9 +112,9 @@ Limburg
 * **The Bridge:** Visit the *Krämerbrücke*. It’s a bridge with actual houses and shops on it where people still live today!
 * **🔗 Video:** [Hear the Gloriosa ring](https://www.youtube.com/watch?v=vPk182Nm9uk)
 
-<img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/fdd6dab5-264d-47e7-b5af-f4a23b18d676" />
-<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/418b855f-d0e8-44dc-a4d8-679d53842aad" />
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7306fdf0-5911-40ac-95cc-7ec8c3d8dbda" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fdd6dab5-264d-47e7-b5af-f4a23b18d676" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/418b855f-d0e8-44dc-a4d8-679d53842aad" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7306fdf0-5911-40ac-95cc-7ec8c3d8dbda" />
 
 ---
 
