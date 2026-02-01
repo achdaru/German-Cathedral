@@ -1,94 +1,81 @@
-# ⛪ Cathedral Tour 2026: Badatelský průvodce (Master Edition)
+# ⛪ Cathedral Tour 2026: The Explorer’s Guide
 
-Vítejte, badatelky! Tato cesta není o prohlížení starých budov, ale o dešifrování vzkazů z minulosti, ambicích mocných a technických divech, které předběhly svou dobu.
-
----
-
-## 🇩🇪 1. Regensburg (Řezno) – Francouzský šarm v Bavorsku
-* **Superschopnost:** Jediná čistě francouzská gotika v Bavorsku. Přežila 2. světovou válku bez jediného škrábance – vše, co vidíte, je originál z 13. století.
-* **The Vibe:** Hledejte **Smějícího se anděla** (*Lachender Engel*). Zatímco se jinde náboženství bralo smrtelně vážně, tenhle kluk s ironickým úsměvem je naprostý unikát.
-* **Tajemství:** Katedrála má své "vrabce" (*Regensburger Domspatzen*). Jde o jeden z nejstarších chlapeckých sborů na světě (přes 1000 let!).
-* **🕵️‍♀️ Pátračka:** Najdete na fasádě sochy se zvířecími hlavami? Středověcí umělci měli občas divokou fantazii.
-* **🔗 Video:** [Katedrála z ptačí perspektivy](https://www.youtube.com/watch?v=ss0trCh2rZo)
-* **🔗 Video:** [Videomapping](https://www.youtube.com/watch?v=2iUdWL7vnuc)
+Welcome, explorers! This journey isn't just about old buildings; it’s about decoding messages from the past, witnessing crazy engineering, and seeing places that look like movie sets.
 
 ---
 
-## 🇩🇪 2. Ulm – Mrakodrap středověku
-* **Světový rekord:** **Nejvyšší kostelní věž na světě (161,5 m)**. Je vyšší než Socha Svobody.
-* **Engineering Fail & Win:** Stavěli ji 500 let. V jednu chvíli se věž začala naklánět – museli povolat nejlepší inženýry té doby, aby ji "ukotvili".
-* **Legenda o vrabci:** Vrabec prý naučil stavitele, jak pronést dlouhé trámy úzkou bránou (podélně, ne napříč!). Proto je symbolem města.
-* **💪 Výzva:** 768 schodů na vrchol. Je to test klaustrofobie i fyzičky. Kdo z vás bude nahoře první?
-* **🔗 Video:** [Ulm Munster z dronu](https://www.youtube.com/watch?v=yXaVRX9rjFU)
-* **🔗 Video:** [Tower](https://www.youtube.com/watch?v=KjJG6uY8D9w)
----
-
-## 🇩🇪 3. Maulbronn – Skutečné Bradavice (UNESCO)
-* **Atmosféra:** Nezachovalejší středověký klášter na sever od Alp. Křížové chodby a kamenné kašny vypadají přesně jako chodby v Bradavicích.
-* **Gastro-fakt:** Tady vznikly taštičky **Maultaschen**. Mniši v nich schovali maso před Bohem během půstu (říká se jim "Boží podvůdky").
-* **🕵️‍♀️ Záhada:** Všimněte si akustiky v křížové chodbě – byla navržena tak, aby se i šepot nesl neuvěřitelně daleko.
-* **🔗 Video:** [Maulbronn Monastery - UNESCO](https://www.youtube.com/watch?v=Hr3vMKBimwI)
+## 🇩🇪 1. Regensburg – French Style in Bavaria
+* **Superpower:** The only pure French-style Gothic cathedral in Bavaria. It survived WWII without a scratch – everything you see is the 13th-century original.
+* **The Vibe:** Look for the **Laughing Angel** (*Lachender Engel*). While religion was usually dead serious, this guy’s ironic smile is legendary.
+* **🕵️‍♀️ Quest:** Can you find statues with animal heads on the facade? Medieval artists had a wild imagination.
+* **🔗 Video:** [Cathedral from a bird's eye view](https://www.youtube.com/watch?v=ss0trCh2rZo)
 
 ---
 
-## 🇩🇪 4. Speyer (Špýr) – Císařský Brutalismus
-* **Power Move:** Největší románský kostel na světě. Žádné kudrlinky, jen masivní zdi. Císaři ho postavili, aby ukázali papežovi, kdo vládne Evropě.
-* **The Basement:** V kryptě (největší v Evropě) leží 8 německých králů a císařů. Je to takový středověký "VIP hřbitov".
-* **🔗 Video:** [UNESCO - Speyer Cathedral](https://www.youtube.com/watch?v=m0j1KOiG5Ys)
+## 🇩🇪 2. Ulm – The Medieval Skyscraper
+* **World Record:** The **tallest church steeple in the world (161.5 m)**. It’s taller than the Statue of Liberty!
+* **Legend of the Sparrow:** A sparrow supposedly taught the builders how to carry long beams through narrow gates (lengthwise, not sideways!). That’s why the sparrow is the city's mascot.
+* **💪 Challenge:** 768 steps to the top. It’s a test of fitness and nerves. Who will be the first one up?
+* **🔗 Video:** [Ulm Munster from a drone](https://www.youtube.com/watch?v=yXaVRX9rjFU)
 
 ---
 
-## 🇩🇪 5. Worms – Legendy o dracích a rebelech
-* **Mythology:** Tady se odehrávaly eposy o drakobijci Siegfriedovi. Město je plné dračích motivů.
-* **Rebelie:** V roce 1521 tu proběhl nejslavnější soud středověku s Martinem Lutherem. Tady se rozhodlo o rozdělení církve.
-* **🕵️‍♀️ Pátračka:** Na jižní straně hledejte postavy Eklezie (vítězná) a Synagogy (se zavázanýma očima). Drsné svědectví středověké politiky.
-* **🔗 Video:** [Worms](https://www.youtube.com/watch?v=RDaDgP5qzVE&t=10s)
----
-
-## 🇩🇪 6. Mainz (Mohuč) – Červený obr a vynález tisku
-* **The Look:** Katedrála z červeného pískovce. Má dva chóry (oltáře na obou koncích), aby ukázala rovnováhu mezi církví a císařem.
-* **Inovace:** Mainz je město Johannese Gutenberga. Bez jeho vynálezu knihtisku byste dnes nečetly ani tento průvodce.
-* **🕵️‍♀️ Úkol:** Najděte v blízkosti dómu Gutenbergovo muzeum – jsou tam bible, které mají cenu miliard korun.
-* **🔗 Video:** [Mainz z dronu](https://www.youtube.com/watch?v=pwRt90GuH70)
----
-
-## 🇩🇪 7. Köln (Kolín nad Rýnem) – Gotický Gigant
-* **The Titan:** Stavba trvala **632 let**. Byla to nejvyšší stavba světa.
-* **Dark Secret:** Katedrála dostala 14 přímých zásahů bombami, ale nespadla. Sloužila pilotům jako orientační bod, proto ji nezničili úplně.
-* **Relikvie:** Zlatý sarkofág **Tří králů**. Je v něm víc zlata a drahokamů než v leckteré centrální bance.
-* **🔗 Video:** [Koln dom by drone](https://www.youtube.com/watch?v=SuyeKYGIWZs)
-* **🔗 Video:** [Koln dom](https://www.youtube.com/watch?v=rzQZuQBm074)
-* **🔗 Video:** [Cologne Cathedral's Epic Build: 632 Years Of Gothic Grandeur](https://www.youtube.com/watch?v=w-afeQhmv3A)
----
-
-## 🇩🇪 8. Aachen (Cáchy) – Trůn otce Evropy
-* **Imperial Design:** Osobní projekt Karla Velikého. Centrální osmiúhelník (oktogon) měl symbolizovat nekonečno.
-* **Záhada Wolfstür:** V bronzových dveřích je díra. Legenda říká, že tam čertovi zůstal palec, když se snažil dveře rozbít vzteky. Zkuste ho nahmatat!
-* **Instagram Spot:** "Skleněný dům z Cách" – chór katedrály má 1000 m² vitráží. Estetický strop středověku.
-* **🔗 Video:** [Aachen dom z dronu](https://www.youtube.com/watch?v=-OOK8lw04yw&t=61s)
-* **🔗 Video:** [Aachen Cathedral](https://www.youtube.com/watch?v=PI-fMpalYVI)
----
-
-## 🇩🇪 9. Marburg – Schody, schody a pohádky
-* **The Challenge:** Město postavené na svislém kopci. Bratři Grimmové tu studovali a uličky je inspirovaly k pohádkám o Popelce.
-* **Elisabethkirche:** První čistě gotický kostel v Německu. Zasvěcen svaté Alžbětě, středověké "celebritě", která se obětovala pro chudé.
-* **🚀 Tip:** Vyjeďte proskleným výtahem z dolního města do horního pro nejlepší výhled.
-* **🔗 Video:** [Marburg walking tour](https://www.youtube.com/watch?v=nDrD8Yjwcos)
----
-
-## 🇩🇪 10. Erfurt – Zvon, který mluví k Evropě
-* **The Sound:** Zvon **Gloriosa** (rok 1497). Váží přes 11 tun a má prý nejdokonalejší zvuk v Evropě. Zvoní jen párkrát do roka.
-* **Inženýrský trik:** Katedrála stojí na obřích podzemních klenbách (*Cavate*), protože se na vršek kopce už prostě nevešla.
-* **🔗 Video:** [Slyšte zvuk Gloriosy](https://www.youtube.com/watch?v=vPk182Nm9uk)
-* **🔗 Video:** [Erfurt](https://www.youtube.com/watch?v=KppLtPseAME)
----
-
-## ❓ Check-list do auta (Kvadrant otázek)
-1.  **Regensburg:** Najdete "Smějícího se anděla"?
-2.  **Ulm:** Kdo vyběhne 768 schodů bez zastávky?
-3.  **Aachen:** Nahmataly jste "čertův palec"?
-4.  **Limburg:** Kolik barev napočítáte na fasádě?
-5.  **Marburg:** Kolik schodů musíte vyjít k zámku?
+## 🇩🇪 3. Speyer, Worms & Mainz – The Imperial Giants
+* **Speyer (The Power Move):** The largest Romanesque church in the world. No fancy decorations, just massive walls. Built by Emperors to show the Pope who’s boss.
+* **Worms (Dragons & Rebels):** The setting of the *Siegfried the Dragonslayer* legends. Also, the site of the most famous trial in history with Martin Luther.
+* **Mainz (The Red Giant):** Built from red sandstone. It has two altars (one at each end) to show the balance between the Church and the Emperor.
+* **🔗 Video:** [Speyer UNESCO](https://www.youtube.com/watch?v=m0j1KOiG5Ys) | [Mainz from above](https://www.youtube.com/watch?v=pwRt90GuH70)
 
 ---
-*Vytvořeno s láskou pro expedici Katedrály 2026.*
+
+## 🇩🇪 4. Idstein & Limburg – The Fairytale Stops
+* **Idstein (The Illusion):** Visit the **Union Church** (Unionskirche). From the outside, it looks normal. Inside? The entire ceiling and walls are covered in 38 massive oil paintings. It’s like a 3D comic book from the 1600s.
+* **Limburg (The Dollhouse):** This cathedral has 7 towers and is painted in bright white and red. It looks like it belongs in a Disney movie, perched high above the river.
+* **🔗 Video:** [Limburg Cathedral](https://www.youtube.com/watch?v=RDaDgP5qzVE&t=10s)
+
+---
+
+## 🇩🇪 5. Aachen – The Throne of the Father of Europe
+* **The Mystery:** Built by Charlemagne over 1200 years ago. The central octagon was designed to represent infinity.
+* **The Wolf’s Door:** There’s a hole in the bronze handle. Legend says the Devil lost his thumb there while trying to kick the door down. **Try to feel for it with your finger!**
+* **🔗 Video:** [Aachen Cathedral secrets](https://www.youtube.com/watch?v=PI-fMpalYVI)
+
+---
+
+## 🇩🇪 6. Cologne (Köln) – The Gothic Titan
+* **The Titan:** It took **632 years** to build. For a while, it was the tallest building on Earth.
+* **The Relic:** The Golden Sarcophagus of the **Three Wise Men**. It contains more gold and jewels than most bank vaults.
+* **🕵️‍♀️ Fact:** It was hit by 14 aerial bombs during WWII but didn't collapse. Pilots used it as a landmark to find their way.
+* **🔗 Video:** [Cologne Cathedral Epic Build](https://www.youtube.com/watch?v=w-afeQhmv3A)
+
+---
+
+## 🇩🇪 7. Neviges (Mariendom) – The Concrete "Dune"
+* **The Vibe:** Forget everything you’ve seen so far. This isn't stone and stained glass. It’s a massive **concrete mountain**.
+* **Sci-Fi Architecture:** It looks like something from the movie *Dune* or a spaceship hangar. Inside, it feels like being in a giant, holy cave.
+* **🔗 Video:** [Story behind Iconic Architecture](https://www.youtube.com/watch?v=lBwvLpUfkQo)
+
+---
+
+## 🇩🇪 8. Eisenach (Wartburg) – The Secret Fortress
+* **The Spy Story:** This is where Martin Luther hid from the Emperor. He grew a beard, changed his name to "Knight George," and translated the Bible in a tiny wooden room.
+* **The Castle:** It’s exactly how you imagine a medieval fortress – high on a hill, surrounded by deep forests.
+* **🔗 Video:** [Wartburg Castle Tour](https://www.youtube.com/watch?v=PGgueJXw7k4)
+
+---
+
+## 🇩🇪 9. Erfurt – The Voice of Europe
+* **The Sound:** The **Gloriosa** bell (from 1497). It weighs 11 tons and is said to have the most perfect sound in the world. It only rings a few times a year.
+* **The Bridge:** Visit the *Krämerbrücke*. It’s a bridge with actual houses and shops on it where people still live today!
+* **🔗 Video:** [Hear the Gloriosa ring](https://www.youtube.com/watch?v=vPk182Nm9uk)
+
+---
+
+## ❓ The "Backseat" Challenge (Questions for the road)
+1. **Regensburg:** Who can find the "Laughing Angel" first?
+2. **Aachen:** Did you feel the Devil's thumb in the door?
+3. **Neviges:** Does it look more like a spaceship or a mountain?
+4. **Erfurt:** How many houses are actually on the bridge?
+
+---
+*Created with love for the 2026 Cathedral Expedition.*
