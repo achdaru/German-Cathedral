@@ -1,4 +1,4 @@
-<img width="1600" height="1103" alt="image" src="https://github.com/user-attachments/assets/dcb2ec07-b21f-4730-8798-ae6c7092be63" /># ⛪ Cathedral Tour 2026: The Explorer’s Guide
+⛪ Cathedral Tour 2026: The Explorer’s Guide
 
 Welcome, explorers! This journey isn't just about old buildings; it’s about decoding messages from the past, witnessing crazy engineering, and seeing places that look like movie sets.
 
@@ -10,8 +10,8 @@ Welcome, explorers! This journey isn't just about old buildings; it’s about de
 * **🕵️‍♀️ Quest:** Can you find statues with animal heads on the facade? Medieval artists had a wild imagination.
 * **🔗 Video:** [Cathedral from a bird's eye view](https://www.youtube.com/watch?v=ss0trCh2rZo)
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7c45ebc4-414d-413b-9a8c-6bd107e22cfb" />
-<img width="1360" height="941" alt="image" src="https://github.com/user-attachments/assets/87b23706-24b6-4f90-afd1-ce2fff1f0cda" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7c45ebc4-414d-413b-9a8c-6bd107e22cfb" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/87b23706-24b6-4f90-afd1-ce2fff1f0cda" />
 
 
 ---
